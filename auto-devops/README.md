@@ -1,4 +1,4 @@
-# DevOps Todo Example
+# DevOps Todo Example 
 
 This is a todo app to demonstrate a DevOps build, test, and deployment pipeline.
 
